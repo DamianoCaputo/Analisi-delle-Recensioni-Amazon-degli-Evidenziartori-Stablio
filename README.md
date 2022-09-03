@@ -5,5 +5,7 @@ Attraverso lo Scraping Web della pagina delle recensioni di Amazon.uk raccogliam
 La raccolta dei dati è stata effettuata il 05/2021
 
 ## Analisi Condotte
-- Analisi generali 
+- Frequenza delle stelle (la valutazione di amazon)
 - Frequenza delle parole 
+- Sentiment Analysis
+- Topic Modelling
